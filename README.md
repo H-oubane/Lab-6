@@ -12,29 +12,9 @@ Créer une application qui affiche une liste de pizzas et leurs détails complet
 - **Bouton partage** → partager une recette
 
 ## Capture video
-<!-- Uploading "WhatsApp Video 2026-04-06 at 22.57.46.mp4"... -->
+https://github.com/user-attachments/assets/569caf23-ff1a-46e1-8ad8-3f2c99303e52
 
 
-
-
-### 1. écran de démarrage
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/91a0f207-4fd2-4b46-9a8c-56a47e3c3cec" />
-
-
-### 2. Liste des pizzas
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/da9ef195-e101-4985-bc8a-0816a1efac26" />
-
-
-### 3. Détail Spinach Pizza
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/137bc9fb-d01c-497a-96e1-bb74fe794b51" />
-
-
-### 4. Détail Margherita Pizza
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f294ab8e-2cd1-49e2-8d02-7dbb784d7bef" />
-
-
-### 5. test de bouton partage 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/313d6950-1cf3-4841-93aa-0aabcee55b11" />
 
 
 
