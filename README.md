@@ -12,8 +12,7 @@ Créer une application qui affiche une liste de pizzas et leurs détails complet
 - **Bouton partage** → partager une recette
 
 ## Capture video
-https://github.com/user-attachments/assets/569caf23-ff1a-46e1-8ad8-3f2c99303e52
-
+https://github.com/user-attachments/assets/1e811ba2-97b3-48f3-93a0-977b9a1bcf39
 
 
 
