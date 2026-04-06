@@ -11,7 +11,12 @@ Créer une application qui affiche une liste de pizzas et leurs détails complet
 - **Détail d'une pizza** → image, description, ingrédients et étapes
 - **Bouton partage** → partager une recette
 
-## Captures d'écran
+## Capture video
+<!-- Uploading "WhatsApp Video 2026-04-06 at 22.57.46.mp4"... -->
+
+
+
+
 ### 1. écran de démarrage
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/91a0f207-4fd2-4b46-9a8c-56a47e3c3cec" />
 
